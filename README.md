@@ -1,2 +1,1 @@
-"# blockchainUsingJava" 
-"# blockchainUsingJava" 
+Simple demonstration of blockchain technology using java
